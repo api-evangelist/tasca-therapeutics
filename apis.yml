@@ -47,6 +47,9 @@ x-enrichment:
     (drug-discovery) VC-portfolio stub with nothing to enrich.
 tags:
 - Company
+- Biotechnology
+tags_raw:
+- Company
 - Biotech
 apis: []
 maintainers:
